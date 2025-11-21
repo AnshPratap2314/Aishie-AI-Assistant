@@ -1,3 +1,28 @@
+<p align="left">
+
+  <!-- Python version -->
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version">
+
+  <!-- OpenCV -->
+  <img src="https://img.shields.io/badge/OpenCV-Enabled-green.svg" alt="OpenCV">
+
+  <!-- Speech Recognition -->
+  <img src="https://img.shields.io/badge/Speech_Recognition-Active-yellow.svg" alt="Speech Recognition">
+
+  <!-- Platform -->
+  <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg" alt="Platform">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="MIT License">
+
+  <!-- Status -->
+  <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
+
+  <!-- Project Type -->
+  <img src="https://img.shields.io/badge/Project-AI_Assistant-red.svg" alt="AI Assistant">
+
+</p>
+
 # 🚀 Aishie – Advanced AI Personal Assistant <br>
 A Python-powered intelligent voice and vision assistant designed for automation, communication, and smart interaction.<br>
 # 🔥 Introduction <br>
