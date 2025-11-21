@@ -1,90 +1,114 @@
-<p align="left">
+<p align="center">
+  <img src="./Aishie_Logo.png" height="260" alt="Aishie Logo">
+</p>
 
-  <!-- Python version -->
-  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version">
+<h1 align="center">🤖 AISHIE — Advanced AI Personal Assistant</h1>
+<p align="center"><strong>Inspired by J.A.R.V.I.S · Built in Python · Powered by Voice, Vision & Automation</strong></p>
 
-  <!-- OpenCV -->
-  <img src="https://img.shields.io/badge/OpenCV-Enabled-green.svg" alt="OpenCV">
+<p align="center">
 
-  <!-- Speech Recognition -->
-  <img src="https://img.shields.io/badge/Speech_Recognition-Active-yellow.svg" alt="Speech Recognition">
-
-  <!-- Platform -->
-  <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey.svg" alt="Platform">
-
-  <!-- License -->
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="MIT License">
-
-  <!-- Status -->
-  <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
-
-  <!-- Project Type -->
-  <img src="https://img.shields.io/badge/Project-AI_Assistant-red.svg" alt="AI Assistant">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg">
+  <img src="https://img.shields.io/badge/OpenCV-Face_Recognition-green.svg">
+  <img src="https://img.shields.io/badge/Speech-Recognition-yellow.svg">
+  <img src="https://img.shields.io/badge/Status-Active-success.svg">
+  <img src="https://img.shields.io/badge/License-MIT-purple.svg">
+  <img src="https://img.shields.io/badge/AI-Assistant-red.svg">
 
 </p>
 
-# 🚀 Aishie – Advanced AI Personal Assistant <br>
-A Python-powered intelligent voice and vision assistant designed for automation, communication, and smart interaction.<br>
-# 🔥 Introduction <br>
-Aishie is an advanced AI-based personal assistant built using Python. <br>
-## It integrates: <br>
-👁️ Face Recognition <br>
-🎤 Voice Commands <br>
-💬 Communication Automation <br>
-🧠 Memory System <br>
-🗂️ System Awareness <br>
-⚙️ Utility / OS Controls <br>
-Aishie can see, listen, think, remember, and perform actions — just like a smart AI companion. <br>
-# 🧠 Key Features <br>
-🔐 1. Face Recognition Security <br>
-Real-time detection using OpenCV 
-Unlocks only on authorized face
-Prevents unauthorized usage <br>
-🎤 2. Voice-Based Interaction  <br>
-Wake words supported: <br>
-"Hey Aishie" <br>
-"Ok Aishie" <br>
-"Aishie" <br>
-"Ai" <br>
-"Hey Ai" <br>
-"Ok Ai" <br>
-Converts speech → text <br>
-Responds naturally using Pyttsx3 <br>
-Handles real conversational commands <br>
-# 💬 3. Smart Communication Hub <br>
-Aishie can: <br>
-📩 Send Email <br>
-📖 Read Email <br>
-💬 Send WhatsApp Messages <br>
-👀 Read WhatsApp Chats <br>
-📞 Make Calls <br>
-📇 Fetch Contact Information <br>
-All handled using custom Python automation. <br>
-# 🧠 4. Memory System 
-Aishie remembers: <br>
-User preferences <br>
-Task history <br>
-App changes <br>
-Important logs <br>
-Stored in: <br>
-aishie_memory.json <br>
-app_changes.json <br>
-# 📱 5. System Awareness (Phase 6.5) <br>
-Aishie automatically: <br>
-Detects new app installations <br>
-Detects app removals <br>
-Updates stored app list <br>
-Notifies user of changes <br>
-# 🧰 6. Automation & Utility Commands <br>
-Aishie can: <br>
-Open apps (Chrome, YouTube, Terminal, Notes, etc.) <br>
-Play music <br>
-Take screenshots <br>
-Search Wikipedia <br>
-Explain topics <br>
-Answer general queries <br>
-Perform system tasks <br>
-🗂️ Project Structure <br>
+---
+
+## 🚀 **Introduction**
+**Aishie** is a next-generation AI assistant built in Python.  
+It combines **face recognition, speech interaction, communication automation, system awareness, and intelligent memory** to function like a true personal AI companion.
+
+Aishie can **see, listen, talk, think, remember, automate tasks, and interact with your device** — all in real-time.
+
+---
+
+## 🔐 **1. Face Recognition Security**
+- Built with OpenCV  
+- Unlocks only when your face is detected  
+- Provides a secure system start  
+- Blocks unauthorized users  
+
+---
+
+## 🎤 **2. Voice Interaction**
+Aishie listens and speaks intelligently using:
+
+- SpeechRecognition  
+- PyAudio  
+- Pyttsx3  
+- Wake Words:
+  - “Hey Aishie”
+  - “Ok Aishie”
+  - “Ai”
+  - “Ok Ai”
+  - “Hey Ai”
+
+Supports **natural language commands**.
+
+---
+
+## 💬 **3. Smart Communication Hub**
+Aishie can send and read:
+
+- 📩 Emails  
+- 💬 WhatsApp messages  
+- 📞 Calls  
+- 📖 Message reading  
+- 👤 Contact lookup  
+
+All automated using secure Python modules + custom integrations.
+
+---
+
+## 🧠 **4. Memory System**
+Aishie **remembers everything**, making it smarter each time you use it.
+
+Stores:
+- User preferences  
+- Task history  
+- System updates  
+- App changes  
+
+Files:
+- `aishie_memory.json`  
+- `app_changes.json`
+
+---
+
+## 📱 **5. System Awareness (Phase 6.5)**
+Aishie automatically:
+
+- Detects installed apps  
+- Detects uninstalled apps  
+- Updates app list daily  
+- Notifies about system changes  
+
+Smart, self-updating system intelligence.
+
+---
+
+## ⚙️ **6. Automation & Utility Commands**
+
+Aishie can:
+
+- Open apps (Chrome, Terminal, Notes, YouTube, Google, Safari…)  
+- Take screenshots  
+- Search Wikipedia  
+- Explain topics  
+- Play music  
+- Read conversations  
+- Perform system tasks  
+- More actions continuously being added…
+
+---
+
+## 🗂️ **Project Structure** <br>
+
+
 Aishie-AI-Assistant/ <br>
 │── Face_scan.py <br>
 │── main.py <br>
@@ -101,95 +125,54 @@ Aishie-AI-Assistant/ <br>
 │── README.md <br>
 │── .gitignore <br>
 │── venv/ (ignored) <br>
-# 🛠️ Technology Stack <br>
-<!-- Copy & paste this HTML into your README.md -->
-<h2>⚙️ Component — Technology</h2>
 
-<table style="border-collapse:collapse; width:100%; max-width:800px;">
-  <thead>
-    <tr>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #e1e4e8;">Component</th>
-      <th style="text-align:left; padding:8px; border-bottom:2px solid #e1e4e8;">Technology</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Face Recognition</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">OpenCV</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Speech Recognition</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">SpeechRecognition + PyAudio</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Text-to-Speech</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Pyttsx3</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Communication</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">smtplib, custom WhatsApp automation</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Knowledge Engine</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Wikipedia API</td>
-    </tr>
-    <tr>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">OS Interaction</td>
-      <td style="padding:8px; border-bottom:1px solid #f1f1f1;">Python <code>os</code> + <code>subprocess</code></td>
-    </tr>
-    <tr>
-      <td style="padding:8px;">System Awareness</td>
-      <td style="padding:8px;">Custom <code>installed_apps</code> module</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<h2>⚙️ How It Works</h2>
-<ol>
-  <li>Performs face recognition</li>
-  <li>Unlocks on verified match</li>
-  <li>Listens for wake words</li>
-  <li>Converts speech → text</li>
-  <li>Processes intent</li>
-  <li>Executes communication / automation tasks</li>
-  <li>Saves memory for continuous improvement</li>
-</ol>
+## 🛠️ **Technology Stack**
 
-# 🔮 Future Enhancements <br>
-☁ Cloud Sync <br>
-🪟 GUI Dashboard <br>
-📱 Mobile App + API <br>
-🧑‍💼 Multi-user Profiles  <br>
-🔊 Better Speech Recognition <br>
-🔌 Plugin System Support <br>
-# 🤝 Contributing <br>
-Pull requests are welcome! <br>
-For major changes, open an issue first to discuss improvements <br>
-# 📄 License — MIT License <br>
-MIT License
+| Component | Technology |
+|----------|------------|
+| **Face Recognition** | OpenCV |
+| **Speech Recognition** | SpeechRecognition, PyAudio |
+| **TTS Engine** | Pyttsx3 |
+| **Communication** | smtplib, WhatsApp automation |
+| **Knowledge Engine** | Wikipedia API |
+| **File System / OS** | Python `os`, `subprocess` |
+| **System Awareness** | Custom `installed_apps` module |
 
-Copyright (c) 2025 Ansh Pratap
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## ⚙️ **How It Works**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Performs face recognition  
+2. Unlocks on authorized match  
+3. Activates wake-word listener  
+4. Converts voice → text  
+5. Processes user intent  
+6. Executes tasks (automation, communication, search, etc.)  
+7. Stores memory for continuous improvement  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-# 👤 Author <br>
-Ansh Pratap <br>
-B.Tech CSE | AI & ML Developer <br>
-Creator of Aishie – AI Assistant <br>
+---
+
+## 🔮 **Future Enhancements**
+
+- 🌐 Cloud sync across devices  
+- 📱 Mobile companion app  
+- 🪟 Full GUI dashboard  
+- 🧑‍💼 Multi-user profiles  
+- 🔊 Advanced speech recognition model  
+- 🔌 Plugin system for developers  
+
+---
+
+## 🤝 **Contributing**
+Pull requests are welcome!  
+For major updates, open an issue first to discuss proposed changes.
+
+---
+
+## 📄 **License — MIT License**
+
+
 🔗 GitHub: AnshPratap2314 
 🔗 LinkedIn: https://www.linkedin.com/in/ansh-pratap-68156625b/
