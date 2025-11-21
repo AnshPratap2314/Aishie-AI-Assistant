@@ -179,5 +179,5 @@ For major updates, open an issue first to discuss proposed changes.
 <hr>
 
 <p align="center">
-  ✨ Built with Aishie — your intelligent, caring, always-ready AI companion.
+ 🧠💙 A fusion of intelligence and care — created to assist, understand, and uplift.
 </p>
