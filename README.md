@@ -176,3 +176,8 @@ For major updates, open an issue first to discuss proposed changes.
 
 🔗 GitHub: AnshPratap2314 
 🔗 LinkedIn: https://www.linkedin.com/in/ansh-pratap-68156625b/
+<hr>
+
+<p align="center">
+  ✨ Built with Aishie — your intelligent, caring, always-ready AI companion.
+</p>
